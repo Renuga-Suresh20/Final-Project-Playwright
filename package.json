@@ -1,0 +1,23 @@
+{
+  "name": "justdial-testing-plw",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Renuga-Suresh/Justdial-Testing-PLW.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Renuga-Suresh/Justdial-Testing-PLW/issues"
+  },
+  "homepage": "https://github.com/Renuga-Suresh/Justdial-Testing-PLW#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.55.1",
+    "@types/node": "^24.6.2"
+  }
+}
